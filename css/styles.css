@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Playfair+Display:ital@1&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Playfair+Display:ital@1&family=Shadows+Into+Light&display=swap');
+.navigations{
+    box-sizing: border-box;
+    margin: auto;
+}
+li,a{
+    font-family: "Playfair Display";
+    font-size: 20px;
+    font-weight: 400;
+    
+    text-shadow: 2cm;
+    text-decoration: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.navigations{
+    list-style: none;
+}
+.navigations li{
+display: inline-block ;
+padding: 0px 20px;
+}
+.box{
+    background-image: url(../background\ img.jpg);
+    padding: 100px 50px;
+    margin: 50px;
+    background-repeat: no-repeat;
+}
+a:hover{
+    color: rgb(196, 154, 101);
+}
+
+ p {
+    font-family: "Patrick hand";
+    font-weight: 400;  
+   
+}
+.
+h1 {
+    font-family: "Patrick hand";
+    float: right;
+    margin-right: 1000px;
+    margin-bottom: 200px;
+}
+#image1 {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 40px;
+}
+#job{
+    margin-left: 140px;
+}
+  
+.abouttext{
+    margin-right: 400px;
+}
+#hob{
+margin-left: 140px;
+}
+#center{
+    margin: 0 auto;
+}
